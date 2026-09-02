@@ -1,0 +1,13 @@
+#Trabalho de Matematica
+
+x=int(input("insira um valor inteiro de 0 a 9:"))
+print("O valor inteiro escolhido foi :",x)
+y=int(input("Insira um valor inteiro negativo de 1 a 9: "))
+z=x+y
+w=x-y
+k=x*y
+q=x/y
+print("A soma de x e y é:",z)
+print("A subtração entre x e y é:",w)
+print("O produto entre x e y é:",k)
+print("A razão entre x e y é:",q)
